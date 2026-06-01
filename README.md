@@ -11,5 +11,5 @@ Goal:
 - Daily practice
 - Build projects
 - Stay consistent
-  Addres:
+  house:
   - Name Vishal Sharma
