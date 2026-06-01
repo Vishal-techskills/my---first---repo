@@ -12,4 +12,6 @@ Goal:
 - Build projects
 - Stay consistent
   house:
-  - Name Vishal Sharma
+  -  Vishal Sharma
+  Name:
+  - Vishal bhartdoaj 
